@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kartik Dhasmana</h1>
 <h3 align="center">An aspiring game developer and novice 3D modeler from India</h3>
 
-- 🔭 I’m currently working on **Data Structures**
+- 🔭 I’m currently working on **Data Structures, Python**
 
 - 🌱 I’m currently learning **3D Game Development**
 
@@ -11,14 +11,16 @@
 
 - 📫 How to reach me **kartik.dhasmana001@gmail.com**
 
-- 📄 Know about my experiences [Get My Resume!](https://drive.google.com/file/d/16Xt1AoRrJFpd31ZegCQKvHFIn6wqZG4J/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/16Xt1AoRrJFpd31ZegCQKvHFIn6wqZG4J/view?usp=sharing](https://drive.google.com/file/d/16Xt1AoRrJFpd31ZegCQKvHFIn6wqZG4J/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kartik-dhasmana-852331192" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kartik-dhasmana-852331192" height="30" width="40" /></a>
 <a href="https://instagram.com/kay_dee_001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kay_dee_001" height="30" width="40" /></a>
 <a href="https://www.behance.net/kartikdhasmana001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="kartikdhasmana001" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/kaydee001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kaydee001" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kay_dee_001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kay_dee_001" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/kaydee001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="kaydee001" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
