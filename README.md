@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kartik Dhasmana</h1>
-<h3 align="center">An aspiring game developer and novice 3D modeler from India</h3>
+<h3 align="center">An aspiring Game Developer and 3D Enthusiast from Pune, India</h3>
 
-- 🔭 I’m currently working on **Data Structures, Python**
+- 🔭 I’m currently working on **Animation, Post Processing, Asset Creation and Environment Creation**
 
 - 🌱 I’m currently learning **3D Game Development**
 
-- 👨‍💻 All of my projects are available at [https://kaydee001.artstation.com/](https://kaydee001.artstation.com/)
+- 👨‍💻 All of my projects are available at [Instagram](https://www.instagram.com/kd_renders_3d/)
 
 - 💬 Ask me about **3D Modeling, Asset Creation**
 
