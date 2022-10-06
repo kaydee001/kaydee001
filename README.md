@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **kartik.dhasmana001@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16Xt1AoRrJFpd31ZegCQKvHFIn6wqZG4J/view?usp=sharing](https://drive.google.com/file/d/16Xt1AoRrJFpd31ZegCQKvHFIn6wqZG4J/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1cAwxYxVRLFG353Tg9rC6NntfOoiO6qr_/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
