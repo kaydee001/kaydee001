@@ -3,17 +3,17 @@
 
 [![@kaydee's Holopin board](https://holopin.io/api/user/board?user=kaydee)](https://holopin.io/@kaydee)
 
-    - 🔭 I’m currently working on **Asset Creation, Environment Creation and Post Processing**
+- 🔭 I’m currently working on **Asset Creation, Environment Creation and Post Processing**
 
-    - 🌱 I’m currently learning **Animation and Maya**
+- 🌱 I’m currently learning **Animation and Maya**
 
-    - 👨‍💻 All of my artworks are available at : [Instagram](https://www.instagram.com/kd_renders_3d/)
+- 👨‍💻 All of my artworks are available at : [Instagram](https://www.instagram.com/kd_renders_3d/)
 
-    - 💬 Ask me about : **3D Modeling, Asset Creation, Texturing**
+- 💬 Ask me about : **3D Modeling, Asset Creation, Texturing**
 
-    - 📫 Reach me at : **kartik.dhasmana001@gmail.com**
+- 📫 Reach me at : **kartik.dhasmana001@gmail.com**
 
-    - 📄 Know about my experiences : [Resume](https://drive.google.com/file/d/1cAwxYxVRLFG353Tg9rC6NntfOoiO6qr_/view?usp=sharing)
+- 📄 Know about my experiences : [Resume](https://drive.google.com/file/d/1cAwxYxVRLFG353Tg9rC6NntfOoiO6qr_/view?usp=sharing)
 
 
 <!--- CONNECT WITH ME SECTION --->
