@@ -111,4 +111,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaydee001&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="kaydee001" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaydee001&theme=gruvbox" alt="kaydee001" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaydee001&theme=calm" alt="kaydee001" /></p>
