@@ -3,8 +3,6 @@
 
 [![@kaydee's Holopin board](https://holopin.io/api/user/board?user=kaydee)](https://holopin.io/@kaydee)
 
-<p align="center">
-
     - 🔭 I’m currently working on **Asset Creation, Environment Creation and Post Processing**
 
     - 🌱 I’m currently learning **Animation and Maya**
@@ -17,7 +15,6 @@
 
     - 📄 Know about my experiences : [Resume](https://drive.google.com/file/d/1cAwxYxVRLFG353Tg9rC6NntfOoiO6qr_/view?usp=sharing)
 
-</p>
 
 <!--- CONNECT WITH ME SECTION --->
 
