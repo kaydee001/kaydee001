@@ -3,7 +3,7 @@
 
 [![@kaydee's Holopin board](https://holopin.io/api/user/board?user=kaydee)](https://holopin.io/@kaydee)
 
-- 🔭 I’m currently working on **Asset Creation, Environment Creation ans Post Processing**
+- 🔭 I’m currently working on **Asset Creation, Environment Creation and Post Processing**
 
 - 🌱 I’m currently learning **Animation and Maya**
 
