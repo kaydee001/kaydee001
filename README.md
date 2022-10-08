@@ -16,7 +16,9 @@
 - 📄 Know about my experiences : [Resume](https://drive.google.com/file/d/1cAwxYxVRLFG353Tg9rC6NntfOoiO6qr_/view?usp=sharing)
 
 
-<h3 align="left">Connect with me:</h3>
+<!--- CONNECT WITH ME SECTION --->
+
+<h3 align="center">Connect with me:</h3>
 
 <p align="left">
     <a href="https://linkedin.com/in/kartik-dhasmana-852331192" target="blank">
@@ -39,9 +41,11 @@
     </a>
 </p>
 
+<!--- LANGUAGES AND TOOLS SECTION --->
+
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left">
+<p align="center">
   <!--- BLENDER --->
   <a href="https://www.blender.org/" target="_blank"> 
     <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
