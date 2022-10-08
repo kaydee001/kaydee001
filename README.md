@@ -20,7 +20,7 @@
 
 <h3 align="center">Connect with me:</h3>
 
-<p align="left">
+<p align="center">
     <a href="https://linkedin.com/in/kartik-dhasmana-852331192" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kartik-dhasmana-852331192" height="30" width="40" />
     </a>
@@ -43,7 +43,7 @@
 
 <!--- LANGUAGES AND TOOLS SECTION --->
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 
 <p align="center">
   <!--- BLENDER --->
