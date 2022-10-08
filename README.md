@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kartik Dhasmana</h1>
-<h3 align="center">A 3D Enthusiast and aspiring Game Artist from Pune, India</h3>
+<h3 align="center">A 3D enthusiast and an aspiring Game Artist from Pune, India</h3>
 
 [![@kaydee's Holopin board](https://holopin.io/api/user/board?user=kaydee)](https://holopin.io/@kaydee)
 
