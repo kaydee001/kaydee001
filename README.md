@@ -3,18 +3,21 @@
 
 [![@kaydee's Holopin board](https://holopin.io/api/user/board?user=kaydee)](https://holopin.io/@kaydee)
 
-- 🔭 I’m currently working on **Asset Creation, Environment Creation and Post Processing**
+<p align="center">
 
-- 🌱 I’m currently learning **Animation and Maya**
+    - 🔭 I’m currently working on **Asset Creation, Environment Creation and Post Processing**
 
-- 👨‍💻 All of my artworks are available at : [Instagram](https://www.instagram.com/kd_renders_3d/)
+    - 🌱 I’m currently learning **Animation and Maya**
 
-- 💬 Ask me about : **3D Modeling, Asset Creation, Texturing**
+    - 👨‍💻 All of my artworks are available at : [Instagram](https://www.instagram.com/kd_renders_3d/)
 
-- 📫 Reach me at : **kartik.dhasmana001@gmail.com**
+    - 💬 Ask me about : **3D Modeling, Asset Creation, Texturing**
 
-- 📄 Know about my experiences : [Resume](https://drive.google.com/file/d/1cAwxYxVRLFG353Tg9rC6NntfOoiO6qr_/view?usp=sharing)
+    - 📫 Reach me at : **kartik.dhasmana001@gmail.com**
 
+    - 📄 Know about my experiences : [Resume](https://drive.google.com/file/d/1cAwxYxVRLFG353Tg9rC6NntfOoiO6qr_/view?usp=sharing)
+
+</p>
 
 <!--- CONNECT WITH ME SECTION --->
 
@@ -118,7 +121,7 @@
 </p>
 
 <p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaydee001&theme=calm" alt="kaydee001" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaydee001&theme=tokyonight" alt="kaydee001" />
 </p>
 
 <!--- --->
