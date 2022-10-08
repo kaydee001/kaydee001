@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kartik Dhasmana</h1>
-<h3 align="center">An aspiring Game Developer and 3D Enthusiast from Pune, India</h3>
+<h3 align="center">A 3D Enthusiast and aspiring Game Artist from Pune, India</h3>
 
 [![@kaydee's Holopin board](https://holopin.io/api/user/board?user=kaydee)](https://holopin.io/@kaydee)
 
@@ -14,7 +14,6 @@
 - 📫 How to reach me **kartik.dhasmana001@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1cAwxYxVRLFG353Tg9rC6NntfOoiO6qr_/view?usp=sharing)
-
 
 
 <h3 align="left">Connect with me:</h3>
