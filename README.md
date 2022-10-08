@@ -42,9 +42,9 @@
     </a>
 </p>
 
-<!--- LANGUAGES AND TOOLS SECTION --->
+<!--- TOOLS SECTION AND LANGUAGES --->
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Tools and Languages:</h3>
 
 <p align="center">
   <!--- BLENDER --->
