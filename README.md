@@ -14,7 +14,7 @@
 
 - 📫 Reach me at : **kartik.dhasmana001@gmail.com**
 
-- 📄 Know about my experiences : [Resume](https://drive.google.com/file/d/1cAwxYxVRLFG353Tg9rC6NntfOoiO6qr_/view?usp=sharing)
+- 📄 Know about my experiences : [Resume](https://drive.google.com/file/d/1beKRxJsIhH8V-t0NbYfZ4qD8lMVYGmjG/view?usp=share_link)
 
 
 <!--- CONNECT WITH ME SECTION --->
