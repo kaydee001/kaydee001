@@ -92,4 +92,12 @@
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaydee001&" alt="kaydee001" />
 </p>
 
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaydee001&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="kaydee001" />
+</p>
+
+<p align="center">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaydee001&theme=tokyonight" alt="kaydee001" />
+</p>
+
 <!--- --->
