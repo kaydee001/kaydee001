@@ -22,10 +22,10 @@
 
 <p align="center">
     <a href="https://linkedin.com/in/kartik-dhasmana-852331192" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kartik-dhasmana-852331192" height="30" width="40" />
+      <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="kartik-dhasmana-852331192"/>
     </a>
     <a href="https://instagram.com/kay_dee_001" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kay_dee_001" height="30" width="40" />
+      <img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="kay_dee_001"/>
     </a>
 </p>
 
