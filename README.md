@@ -30,7 +30,7 @@
 
 <h3 align="center">Tools and Languages:</h3>
 
-<p align="left"> 
+<p align="center"> 
     <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
         <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
     </a>
@@ -77,7 +77,7 @@
     </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaydee001&show_icons=true&locale=en&layout=compact" alt="kaydee001" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaydee001&show_icons=true&locale=en&layout=compact" alt="kaydee001" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaydee001&show_icons=true&locale=en" alt="kaydee001" /></p>
 
