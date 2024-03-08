@@ -36,7 +36,7 @@
 <p align="center"> 
    
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" width="40" height="40"/> 
+        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python"/> 
     </a> 
     <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
