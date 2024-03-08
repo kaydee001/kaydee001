@@ -86,7 +86,7 @@
 </p>
 
 <p align="center">&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kaydee001&show_icons=true&locale=en" alt="kaydee001" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kaydee001&show_icons=true&locale=en&theme=tokyonight" alt="kaydee001" />
 </p>
 
 <p align="center">
