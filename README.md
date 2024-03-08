@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kartik Dhasmana</h1>
-<h3 align="center">Passionate learner exploring Python, React, and the FARM stack to craft innovative solutions as a budding developer.</h3>
+<h3 align="center">Passionate learner exploring Python, React, and RESTful APIs to craft innovative solutions as a budding developer</h3>
 
 [![@kaydee's Holopin board](https://holopin.io/api/user/board?user=kaydee)](https://holopin.io/@kaydee)
 
