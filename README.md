@@ -7,7 +7,7 @@
     <img src="https://komarev.com/ghpvc/?username=kaydee001&label=Profile%20views&color=0e75b6&style=flat" alt="kaydee001" /> 
 </p>
 
-- 🌱 I’m currently learning **Python, FastAPI, React**
+- 🌱 I’m currently learning **Python, React, SQL**
 
 - 📫 Reach me at : **kartik.dhasmana001@gmail.com**
 
@@ -38,9 +38,9 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python"/> 
     </a> 
-    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
+<!--     <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
         <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="flask"/> 
-    </a> 
+    </a>  -->
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
         <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react"/> 
     </a> 
