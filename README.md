@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kartik Dhasmana</h1>
 <h3 align="center">Passionate learner exploring Python, React, and RESTful APIs to craft innovative solutions as a budding developer</h3>
 
-[![@kaydee's Holopin board](https://holopin.io/api/user/board?user=kaydee)](https://holopin.io/@kaydee)
+<!--- [![@kaydee's Holopin board](https://holopin.io/api/user/board?user=kaydee)](https://holopin.io/@kaydee) --->
 
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=kaydee001&label=Profile%20views&color=0e75b6&style=flat" alt="kaydee001" /> 
 </p>
 
-- 🌱 I’m currently learning **Python, React, SQL**
+- 🌱 I’m currently exploring **JavaScript, Python, DB**
 
 - 📫 Reach me at : **kartik.dhasmana001@gmail.com**
 
@@ -33,14 +33,13 @@
 
 <h3 align="center">Tools and Languages:</h3>
 
-<p align="center"> 
-   
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python"/> 
+<p align="center">
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+            <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python"/> 
     </a> 
-<!--     <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="flask"/> 
-    </a>  -->
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+            <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript"/> 
+    </a>    
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
         <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react"/> 
     </a> 
@@ -49,10 +48,7 @@
     </a> 
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
         <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/> 
-    </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-        <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript"/> 
-    </a> 
+    </a>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
         <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/> 
     </a> 
@@ -65,34 +61,37 @@
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
         <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/> 
     </a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/> 
+    </a>
     <a href="https://github.com/" target="_blank" rel="noreferrer"> 
         <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github"/> 
     </a> 
     <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
         <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="blender"/> 
     </a>
+    <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="unity"/>
+    </a> 
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
         <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="photoshop"/> 
     </a> 
     <a href="https://www.premierepro.com/en" target="_blank" rel="noreferrer"> 
         <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="premiere-pro"/> 
-    </a> 
-    <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="unity"/>
-    </a> 
-
+    </a>
 </p>
 
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaydee001&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="kaydee001" />
 </p>
 
-<p align="center">&nbsp;
+
+<!--- <p align="center">&nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=kaydee001&show_icons=true&locale=en&theme=tokyonight" alt="kaydee001" />
 </p>
 
 <p align="center">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaydee001&theme=tokyonight" alt="kaydee001" />
-</p>
+</p> --->
 
 <!--- --->
