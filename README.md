@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kartik Dhasmana</h1>
-<h3 align="center">Passionate learner exploring Python, React, and RESTful APIs to craft innovative solutions as a budding developer</h3>
+<h3 align="center">From pixels to algorithms - 3D Artist building Python projects while transitioning to AI/ML</h3>
 
 <!--- [![@kaydee's Holopin board](https://holopin.io/api/user/board?user=kaydee)](https://holopin.io/@kaydee) --->
 
@@ -7,7 +7,13 @@
     <img src="https://komarev.com/ghpvc/?username=kaydee001&label=Profile%20views&color=0e75b6&style=flat" alt="kaydee001" /> 
 </p>
 
-- 🌱 I’m currently exploring **JavaScript, Python, DB**
+- 🎯 Currently: Learning AI/Deep Learning fundamentals
+ 
+- 🔧 Building: Real applications as I master each new technology
+  
+- 📚 Next: PyTorch, TensorFlow, Neural Networks
+ 
+- 💼 Background: 3D Artist transitioning to AI/ML
 
 - 📫 Reach me at : **kartik.dhasmana001@gmail.com**
 
@@ -32,6 +38,8 @@
 <!--- TOOLS SECTION AND LANGUAGES --->
 
 <h3 align="center">Tools and Languages:</h3>
+
+<!--
 
 <p align="center">
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -85,6 +93,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaydee001&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="kaydee001" />
 </p>
 
+--->
 
 <!--- <p align="center">&nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=kaydee001&show_icons=true&locale=en&theme=tokyonight" alt="kaydee001" />
