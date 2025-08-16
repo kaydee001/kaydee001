@@ -7,13 +7,11 @@
     <img src="https://komarev.com/ghpvc/?username=kaydee001&label=Profile%20views&color=0e75b6&style=flat" alt="kaydee001" /> 
 </p>
 
-- 🎯 Currently: Learning AI/Deep Learning fundamentals
+- 🎯 Currently: Mastering NumPy, Matplotlib, and Deep Learning fundamentals
  
 - 🔧 Building: Real applications as I master each new technology
   
-- 📚 Next: PyTorch, TensorFlow, Neural Networks
- 
-- 💼 Background: 3D Artist transitioning to AI/ML
+- 📚 Learning: Whatever the next project demands
 
 - 📫 Reach me at : **kartik.dhasmana001@gmail.com**
 
