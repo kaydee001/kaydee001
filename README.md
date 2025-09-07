@@ -35,9 +35,9 @@
 
 <!--- TOOLS SECTION AND LANGUAGES --->
 
+<!--
 <h3 align="center">Tools and Languages:</h3>
 
-<!--
 
 <p align="center">
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
