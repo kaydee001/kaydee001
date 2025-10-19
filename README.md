@@ -1,104 +1,49 @@
-<h1 align="center">Hi 👋, I'm Kartik Dhasmana</h1>
-<h3 align="center">From pixels to algorithms - 3D Artist building Python projects while transitioning to AI/ML</h3>
+<h1 align="center">Hey, I'm Kartik 👋</h1>
 
-<!--- [![@kaydee's Holopin board](https://holopin.io/api/user/board?user=kaydee)](https://holopin.io/@kaydee) --->
+<p align="center">
+  <strong>3D Artist pivoting to Machine Learning & Computer Vision</strong><br>
+</p>
 
-<p align="left"> 
+<p align="center">
+  After almost 3 years in 3D/gaming, I'm building my way into ML/CV roles - one project at a time.<br>
+</p>
+
+<!-- <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=kaydee001&label=Profile%20views&color=0e75b6&style=flat" alt="kaydee001" /> 
+</p> -->
+
+<h2>🛠️ Current Stack</h2>
+
+<p><strong>What I'm Using:</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="pytorch"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python"/>
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="cuda"/>
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy"/>
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="matplotlib"/>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
 </p>
 
-- 🎯 Currently: Mastering NumPy, Matplotlib, and Deep Learning fundamentals
- 
-- 🔧 Building: Real applications as I master each new technology
-  
-- 📚 Learning: Whatever the next project demands
-
-- 📫 Reach me at : **kartik.dhasmana001@gmail.com**
-
-- 📄 Know about my experiences : [Resume](https://drive.google.com/file/d/1beKRxJsIhH8V-t0NbYfZ4qD8lMVYGmjG/view?usp=share_link)
-
-- ⚡ Fun fact **I am a multitasking gamer turned coding enthusiast; my brain overloads, but memes and code comments keep me sane**
-
-
-<!--- CONNECT WITH ME SECTION --->
-
-<h3 align="center">Connect with me:</h3>
+<h2>📊 Activity</h2>
 
 <p align="center">
-    <a href="https://linkedin.com/in/kartik-dhasmana-852331192" target="blank">
-      <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="kartik-dhasmana-852331192"/>
-    </a>
-    <a href="https://instagram.com/kay_dee_001" target="blank">
-      <img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="kay_dee_001"/>
-    </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaydee001&theme=dark" alt="kaydee001 streak"/>
 </p>
 
-<!--- TOOLS SECTION AND LANGUAGES --->
 
-<!--
-<h3 align="center">Tools and Languages:</h3>
+<h2>💬 Let's Connect</h2>
 
+<p><strong>Looking for:</strong> ML/CV Engineer roles, collaborations, learning opportunities</p>
 
 <p align="center">
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-            <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python"/> 
-    </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-            <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript"/> 
-    </a>    
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react"/> 
-    </a> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
-    </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/> 
-    </a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-        <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/> 
-    </a> 
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-        <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus"/> 
-    </a> 
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="java"/>
-    </a> 
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/> 
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/> 
-    </a>
-    <a href="https://github.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github"/> 
-    </a> 
-    <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="blender"/> 
-    </a>
-    <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="unity"/>
-    </a> 
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-        <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="photoshop"/> 
-    </a> 
-    <a href="https://www.premierepro.com/en" target="_blank" rel="noreferrer"> 
-        <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="premiere-pro"/> 
-    </a>
+  <a href="https://linkedin.com/in/kartik-dhasmana-852331192" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+  </a>
+  <a href="mailto:kartik.dhasmana001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
+  </a>
 </p>
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaydee001&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="kaydee001" />
+  📍 <strong>Location:</strong> Pune, India
 </p>
-
---->
-
-<!--- <p align="center">&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kaydee001&show_icons=true&locale=en&theme=tokyonight" alt="kaydee001" />
-</p>
-
-<p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaydee001&theme=tokyonight" alt="kaydee001" />
-</p> --->
-
-<!--- --->
